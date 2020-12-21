@@ -9,7 +9,7 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
+``` 
 ## 实现结果
 ## 实现结果
 + 初始界面中你可以选择是注册还是登录
